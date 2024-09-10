@@ -5,21 +5,57 @@
 
 #tarolo1 {
     height: 300px;
-    width: 100%;
+    width: 800px;
     display: flex;
     flex-direction: row;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
 }
 #zold1 {
     background-color: green;
-    flex: 1;
+    height: 100px;
+    width: 100px;
+    display: none;
 }
-
 #sarga1 {
     background-color: yellow;
-    flex: 1;
+    height: 100px;
+    width: 100px;
+    display: none;
 }
-
 #lila1 {
     background-color: purple;
-    flex: 1;
+    height: 100px;
+    width: 100px;
+}
+
+#tarolo2 {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+    justify-content: left;
+    align-items: center;
+}
+#lila2-1 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#lila2-2 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#lila2-3 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#lila2-4 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
 }

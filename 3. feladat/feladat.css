@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    width: 90%;
+    height: 600px;
+    margin: auto;
+    display: flex;
+}
+#main {
+    background-color: yellow;
+    height: 100%;
+    flex: 4;
+}
+#main2 {
+    background-color: green;
+    height: 100%;
+    flex: 2;
+}

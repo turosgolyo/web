@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#tarolo1 {
+    height: 300px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+}
+#zold1 {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    display: none;
+}
+#sarga1 {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    display: none;
+}
+#lila1 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+
+#tarolo2 {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+    justify-content: flex-start;
+    align-items: center;
+    list-style-type: none;
+}
+#lila2-1 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    margin-right: 5px;
+}
+#lila2-2 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    margin-right: 5px;
+}
+#lila2-3 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    margin-right: 5px;
+}
+#lila2-4 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+
+#tarolo3 {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+}
+#lila3-1 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#lila3-2 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#lila3-3 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#lila3-4 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+
+#tarolo4 {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+    list-style-type: none;
+    justify-content: flex-end;
+    align-items: end;
+}
+#lila4-1 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#lila4-2 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+}
+#lila4-3 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+}
+#lila4-4 {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+}

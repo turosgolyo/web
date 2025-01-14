@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#tarolo1 {
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#zold1 {
+    background-color: green;
+    flex: 1;
+}
+
+#sarga1 {
+    background-color: yellow;
+    flex: 1;
+}
+
+#lila1 {
+    background-color: purple;
+    flex: 1;
+}
+
+
+#tarolo2 {
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#zold2 {
+    background-color: green;
+    flex: 1;
+}
+
+#sarga2 {
+    background-color: yellow;
+    flex: 2;
+}
+
+#lila2 {
+    background-color: purple;
+    flex: 1;
+}
+
+
+#tarolo3 {
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#zold3 {
+    background-color: green;
+    flex: 1;
+    order: 3;
+}
+
+#sarga3 {
+    background-color: yellow;
+    flex: 2;
+    order: 2;
+}
+
+#lila3 {
+    background-color: purple;
+    flex: 1;
+    order: 1;
+}
+
+
+#tarolo4 {
+    height: 500px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+#zold4 {
+    background-color: green;
+    flex: 1;
+    order: 1;
+}
+
+#sarga4 {
+    background-color: yellow;
+    flex: 2;
+    order: 3;
+}
+
+#lila4 {
+    background-color: purple;
+    flex: 1;
+    order: 2;
+}
